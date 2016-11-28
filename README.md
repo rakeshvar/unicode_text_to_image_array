@@ -1,5 +1,7 @@
 # unicode_text_to_image_array
-Converts a piece of complex unicode text to an image and a numpy arrray. Works well for Indic scripts and others (Devanagari, Telugu, Kannada, Tamil, Malayalam, Gujarati, Bengali, Oriya, Gurumukhi, Sinhalese, etc.).
+Converts a piece of complex unicode text to an image and a numpy arrray. 
+Works well for Indic scripts and others 
+(Devanagari, Telugu, Kannada, Tamil, Malayalam, Gujarati, Bengali, Oriya, Gurumukhi, Sinhalese, etc.).
 
 
 ## Requirements
